@@ -1,0 +1,50 @@
+<svg width="800" height="300" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- 定义滤镜：发光效果 -->
+  <defs>
+    <!-- 模糊蓝色外发光 -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="blur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+
+    <!-- 蓝色线性渐变 -->
+    <linearGradient id="blue-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00AEEF"></stop>
+      <stop offset="100%" stop-color="#0077CC"></stop>
+    </linearGradient>
+
+    <!-- 背景矩阵图案 -->
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="10" cy="10" r="1" fill="#002244"></circle>
+    </pattern>
+  </defs>
+
+  <!-- 背景层：黑 + 网格 -->
+  <rect width="800" height="300" fill="url(#grid)"></rect>
+
+  <!-- 发光文字 -->
+  <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle" font-family="Orbitron, Arial Black, sans-serif" font-size="100" fill="url(#blue-gradient)" filter="url(#glow)" letter-spacing="18">
+    ROCK
+  </text>
+
+  <!-- 动态流动虚线底线 -->
+  <line x1="150" y1="240" x2="650" y2="240" stroke="#00AEEF" stroke-width="2" stroke-dasharray="15 5">
+    <animate attributeName="stroke-dashoffset" from="0" to="-40" dur="2s" repeatCount="indefinite"></animate>
+  </line>
+  <circle cx="150" cy="240" r="3" fill="#00AEEF"></circle>
+  <circle cx="650" cy="240" r="3" fill="#00AEEF"></circle>
+
+  <!-- 顶部短线装饰 -->
+  <line x1="390" y1="40" x2="410" y2="40" stroke="#00AEEF" stroke-width="2"></line>
+
+  <!-- 图标版 Logo (变形R) -->
+  <g transform="translate(700, 50)">
+    <!-- 外圈 -->
+    <circle cx="0" cy="0" r="40" fill="none" stroke="#00AEEF" stroke-width="3"></circle>
+    <!-- 变形字母R -->
+    <path d="M -20,25 L -20,-25 Q 0,-35 15,-25 Q 0,-5 0,0 Q 15,0 20,25" fill="none" stroke="#00AEEF" stroke-width="4" filter="url(#glow)"></path>
+  </g>
+</svg>

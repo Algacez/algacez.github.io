@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Rock&#39;s log</title>
+  <icon>http://blog.282994.xyz/icon.png</icon>
+  
+  <link href="http://blog.282994.xyz/atom.xml" rel="self"/>
+  
+  <link href="http://blog.282994.xyz/"/>
+  <updated>2025-06-20T13:06:59.925Z</updated>
+  <id>http://blog.282994.xyz/</id>
+  
+  <author>
+    <name>Rock</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>教育体制下的困境与反思</title>
+    <link href="http://blog.282994.xyz/2025/06/16/%E6%95%99%E8%82%B2%E4%BD%93%E5%88%B6%E4%B8%8B%E7%9A%84%E5%9B%B0%E5%A2%83%E4%B8%8E%E5%8F%8D%E6%80%9D/"/>
+    <id>http://blog.282994.xyz/2025/06/16/%E6%95%99%E8%82%B2%E4%BD%93%E5%88%B6%E4%B8%8B%E7%9A%84%E5%9B%B0%E5%A2%83%E4%B8%8E%E5%8F%8D%E6%80%9D/</id>
+    <published>2025-06-16T13:32:31.000Z</published>
+    <updated>2025-06-20T13:06:59.925Z</updated>
+    
+    
+    <summary type="html">观后感【讲数学两年百万粉，我终于实现了这场复仇】 
+
+黑暗
+复仇
+一张无形的巨网，沉重、压抑，笼罩着本应斑斓的世界，缚住我的四肢，令人窒息。这张网将我的世界禁锢在他人定义的“知识”之中，使我难以跨出一步，甚至难以鼓起勇气望向外部的真实。
+
+分数，成为挥之不去的梦魇。你的每一个行为、每一次选择，都被它量化和评判。它变成了你生命的唯一参照，而你也开始将它当作全部，渐渐忽视那些更值得追寻的存在。
+
+“千军万马过独木桥”的逻辑，是对人性价值的系统性否定。用一套刻板的标准来衡量无数独特个体的潜力；鼓吹“战胜他人”的思想，却从不告诉你：每一个位置总要有人去填补。
+
+这一套系统的后果是，将知识异化为获取利益</summary>
+    
+    
+    
+    
+    <category term="思考" scheme="http://blog.282994.xyz/tags/%E6%80%9D%E8%80%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>希腊字母表</title>
+    <link href="http://blog.282994.xyz/2025/06/16/%E5%B8%8C%E8%85%8A%E5%AD%97%E6%AF%8D%E8%A1%A8/"/>
+    <id>http://blog.282994.xyz/2025/06/16/%E5%B8%8C%E8%85%8A%E5%AD%97%E6%AF%8D%E8%A1%A8/</id>
+    <published>2025-06-16T13:19:01.000Z</published>
+    <updated>2025-06-16T13:19:05.031Z</updated>
+    
+    
+    <summary type="html">序号大写小写英语音标注音英文汉语名称常用指代意义1Αα/‘ælfə/alpha阿尔法角度、系数、角加速度、第一个、电离度、转化率2Ββ/‘bi:tə/ 或 /‘beɪtə/beta贝塔磁通系数、角度、系数3Γγ/‘gæmə/gamma伽玛电导系数、角度、比热容比4Δδ/‘deltə/delta得尔塔变化量、焓变、熵变、屈光度、一元二次方程中的判别式、化学位移5Εε/‘epsɪlɒn/epsilon艾普西隆对数之基数、介电常数、电容率、应变6Ζζ/‘zi:tə/zeta泽塔系数、方位角、阻抗、相对黏度7Ηη/‘i:tə/eta伊塔迟滞系数、机械效率8Θθ/‘θi:tə/theta西塔温度、角度9</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>开源许可证简介</title>
+    <link href="http://blog.282994.xyz/2025/06/16/%E5%BC%80%E6%BA%90%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%AE%80%E4%BB%8B/"/>
+    <id>http://blog.282994.xyz/2025/06/16/%E5%BC%80%E6%BA%90%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%AE%80%E4%BB%8B/</id>
+    <published>2025-06-16T13:17:25.000Z</published>
+    <updated>2025-06-18T14:29:34.642Z</updated>
+    
+    
+    <summary type="html">2023年开源软件的下载使用达到了4万亿次，以空前的力量推动软件生态的发展与创新。这里面下载最突出的领域语言是JavaScript，能占到1.5万亿
+
+开宗明义
+许可证大分类，强度由高到低
+
+宽松式（permissive）许可证Copyleft（许可复制权，著作权保留） 许可证BSD (Berkeley Software Distribution) MIT Apache 2Affero GPL (AGPL) GPL Lesser GPL (LGPL) Mozilla Public License (MPL) Eclipse Public License (EPL) Common Develop</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>LaTeX编写基础知识</title>
+    <link href="http://blog.282994.xyz/2025/06/16/LaTeX%E7%BC%96%E5%86%99%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
+    <id>http://blog.282994.xyz/2025/06/16/LaTeX%E7%BC%96%E5%86%99%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</id>
+    <published>2025-06-16T13:17:24.000Z</published>
+    <updated>2025-06-20T13:06:23.241Z</updated>
+    
+    
+    <summary type="html">LaTeX
+LaTeX是一种基于ΤΕΧ的排版系统，由美国计算机学家莱斯利·兰伯特（Leslie Lamport）在20世纪80年代初期开发。利用这种格式可以生成复杂表格和数学公式，这个笔记的重点就是教你如何利用LaTeX排版数学公式
+
+你也想写出这样的公式？是的，你没有看错。上面这些公式并不是图片，而是用一种更为优雅的方式产生——LaTeX
+
+你可以通过LaTeX代码优雅的写出这些高印刷质量的公式，就像这样
+
+1
+2
+3
+4
+5
+
+
+f(x) = &#92;begin{cases}
+&#92;lim&#92;limits_{x &#92;to 0} &#92;frac{a^x}{b+c}, &amp; x&lt;3 &#92;&#92;
+&#92;pi, &amp; x=3 &#92;</summary>
+    
+    
+    
+    <category term="知识" scheme="http://blog.282994.xyz/categories/%E7%9F%A5%E8%AF%86/"/>
+    
+    
+  </entry>
+  
+</feed>
