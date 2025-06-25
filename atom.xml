@@ -37,73 +37,24 @@
   </entry>
   
   <entry>
-    <title>希腊字母表</title>
-    <link href="http://blog.282994.xyz/2025/06/16/%E5%B8%8C%E8%85%8A%E5%AD%97%E6%AF%8D%E8%A1%A8/"/>
-    <id>http://blog.282994.xyz/2025/06/16/%E5%B8%8C%E8%85%8A%E5%AD%97%E6%AF%8D%E8%A1%A8/</id>
-    <published>2025-06-16T13:19:01.000Z</published>
-    <updated>2025-06-16T13:19:05.031Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;strong&gt;序号&lt;/strong&gt;&lt;/th&gt;
-&lt;th&gt;&lt;strong&gt;大写&lt;/strong&gt;&lt;/th&gt;
-&lt;th&gt;&lt;strong&gt;小写&lt;/strong&gt;&lt;/th&gt;
-&lt;th&gt;&lt;strong&gt;英语音标注音&lt;/strong&gt;&lt;/th&gt;</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>开源许可证简介</title>
-    <link href="http://blog.282994.xyz/2025/06/16/%E5%BC%80%E6%BA%90%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%AE%80%E4%BB%8B/"/>
-    <id>http://blog.282994.xyz/2025/06/16/%E5%BC%80%E6%BA%90%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%AE%80%E4%BB%8B/</id>
-    <published>2025-06-16T13:17:25.000Z</published>
-    <updated>2025-06-18T14:29:34.642Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;2023年开源软件的下载使用达到了&lt;strong&gt;4万亿次&lt;/strong&gt;，以空前的力量推动软件生态的发展与创新。这里面下载最突出的领域语言是JavaScript，能占到1.5万亿&lt;/p&gt;
-&lt;h1 id=&quot;开宗明义&quot;&gt;&lt;a href=&quot;#开宗明义&quot;</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>LaTeX编写基础知识</title>
+    <title></title>
     <link href="http://blog.282994.xyz/2025/06/16/LaTeX%E7%BC%96%E5%86%99%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
     <id>http://blog.282994.xyz/2025/06/16/LaTeX%E7%BC%96%E5%86%99%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</id>
-    <published>2025-06-16T13:17:24.000Z</published>
-    <updated>2025-06-20T13:06:23.241Z</updated>
+    <published>2025-06-16T13:17:24.280Z</published>
+    <updated>2025-06-21T09:15:56.195Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;LaTeX&quot;&gt;&lt;a href=&quot;#LaTeX&quot; class=&quot;headerlink&quot;</summary>
-        
-      
+    <summary type="html">&lt;h1 id=&quot;LaTeX&quot;&gt;&lt;a href=&quot;#LaTeX&quot; class=&quot;headerlink&quot; title=&quot;LaTeX&quot;&gt;&lt;/a&gt;LaTeX&lt;/h1&gt;&lt;p&gt;LaTeX是一种基于ΤΕΧ的排版系统，由美国计算机学家&lt;strong&gt;莱斯利·兰伯特&lt;/strong&gt;（Leslie Lamport）在20世纪80年代初期开发。利用这种格式可以生成&lt;strong&gt;复杂表格&lt;/strong&gt;和&lt;strong&gt;数学公式&lt;/strong&gt;，这个笔记的&lt;strong&gt;重点&lt;/strong&gt;就是教你&lt;strong&gt;如何利用LaTeX排版数学公式&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;你也想写出这样的公式？是的，你没有看错。上面这些公式并不是图片，而是用一种更为优雅的方式产生——LaTeX&lt;/p&gt;
+&lt;p&gt;你可以通过LaTeX代码优雅的写出这些高印刷质量的公式，就像这样&lt;/p&gt;
+&lt;figure class=&quot;highlight latex&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;f(x) = &lt;span class=&quot;keyword&quot;&gt;&#92;begin&lt;/span&gt;&amp;#123;cases&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;&#92;lim&lt;/span&gt;&lt;span class=&quot;keyword&quot;&gt;&#92;limits&lt;/span&gt;&lt;span class=&quot;built_in&quot;&gt;_&lt;/span&gt;&amp;#123;x &lt;span class=&quot;keyword&quot;&gt;&#92;to&lt;/span&gt; 0&amp;#125; &lt;span class=&quot;keyword&quot;&gt;&#92;frac&lt;/span&gt;&amp;#123;a&lt;span class=&quot;built_in&quot;&gt;^&lt;/span&gt;x&amp;#125;&amp;#123;b+c&amp;#125;, &lt;span class=&quot;built_in&quot;&gt;&amp;amp;&lt;/span&gt; x&amp;lt;3 &lt;span class=&quot;keyword&quot;&gt;&#92;&#92;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;&#92;pi&lt;/span&gt;, &lt;span class=&quot;built_in&quot;&gt;&amp;amp;&lt;/span&gt; x=3 &lt;span class=&quot;keyword&quot;&gt;&#92;&#92;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;&#92;int&lt;/span&gt;&lt;span class=&quot;built_in&quot;&gt;_&lt;/span&gt;a&lt;span class=&quot;built_in&quot;&gt;^&lt;/span&gt;&amp;#123;3b&amp;#125;x&lt;span class=&quot;built_in&quot;&gt;_&lt;/span&gt;&amp;#123;ij&amp;#125;+e&lt;span class=&quot;built_in&quot;&gt;^&lt;/span&gt;2 &lt;span class=&quot;keyword&quot;&gt;&#92;mathrm&lt;/span&gt;&amp;#123;d&amp;#125;x,&lt;span class=&quot;built_in&quot;&gt;&amp;amp;&lt;/span&gt; x&amp;gt;3 &lt;span class=&quot;keyword&quot;&gt;&#92;&#92;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;&#92;end&lt;/span&gt;&amp;#123;cases&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;不要害怕，这其实很简单，只需要花费一点时间看完这篇笔记，你也可以优雅的写出这些数学公式&lt;/p&gt;
+&lt;p&gt;首先推荐一个网站&lt;a href=&quot;https://www.latexlive.com/&quot;&gt;&lt;strong&gt;在线LaTeX公式编辑器&lt;/strong&gt;&lt;/a&gt;你可以一边学习，一边在这里测试你学到的东西，这样可以帮助你更快，更轻松的理解LaTeX&lt;/p&gt;
+&lt;p&gt;那我们开始吧！&lt;/p&gt;
+&lt;h2 id=&quot;一些简单的公式&quot;&gt;&lt;a href=&quot;#一些简单的公式&quot; class=&quot;headerlink&quot; title=&quot;一些简单的公式&quot;&gt;&lt;/a&gt;一些简单的公式&lt;/h2&gt;&lt;p&gt;输入 &lt;code&gt;f(x) = a+b&lt;/code&gt;&lt;/p&gt;</summary>
     
     
-    
-    <category term="知识" scheme="http://blog.282994.xyz/categories/%E7%9F%A5%E8%AF%86/"/>
     
     
   </entry>
